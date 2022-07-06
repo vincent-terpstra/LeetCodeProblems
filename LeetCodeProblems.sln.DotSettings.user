@@ -1,0 +1,46 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\System.Core.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=023f45a5_002D6e53_002D4631_002Db38f_002Dc274527c9c26/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Example2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F450D703-5368-4743-82F3-222258CCAFBE::net6.0::LeetCodeProblems.LongestConsecutiveSln.Example2&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=af16320b_002D6144_002D477f_002Dbe70_002D058810a6d3e7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F450D703-5368-4743-82F3-222258CCAFBE::net6.0::LeetCodeProblems.ReconstructQueueSln.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F450D703-5368-4743-82F3-222258CCAFBE::net6.0::LeetCodeProblems.PlusOneSln.Example1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bc5cbb7f_002D8cfa_002D497d_002D82cc_002D5494639faf53/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="StrStrChecks #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F450D703-5368-4743-82F3-222258CCAFBE::net6.0::LeetCodeProblems.StrStrProblem.StrStrChecks&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F450D703-5368-4743-82F3-222258CCAFBE::net6.0::LeetCodeProblems.ReconstructQueueSln.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F450D703-5368-4743-82F3-222258CCAFBE::net6.0::LeetCodeProblems.MaxAreaSln.Example1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F450D703-5368-4743-82F3-222258CCAFBE::net6.0::LeetCodeProblems.MaxAreaSln.Example3&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F450D703-5368-4743-82F3-222258CCAFBE::net6.0::LeetCodeProblems.MaxAreaSln.Example2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F450D703-5368-4743-82F3-222258CCAFBE::net6.0::LeetCodeProblems.MaxAreaSln.Example4&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e1176762_002D73ce_002D4c9c_002D9649_002Dd6ce1547ae78/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="StrStrChecks" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F450D703-5368-4743-82F3-222258CCAFBE::net6.0::LeetCodeProblems.PlusOneSln.Example2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F450D703-5368-4743-82F3-222258CCAFBE::net6.0::LeetCodeProblems.PlusOneSln.Example3&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F450D703-5368-4743-82F3-222258CCAFBE::net6.0::LeetCodeProblems.MaxAreaSln.Example1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F450D703-5368-4743-82F3-222258CCAFBE::net6.0::LeetCodeProblems.WiggleMaxLengthSln.Example5&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F450D703-5368-4743-82F3-222258CCAFBE::net6.0::LeetCodeProblems.WiggleMaxLengthSln.Example4&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F450D703-5368-4743-82F3-222258CCAFBE::net6.0::LeetCodeProblems.WiggleMaxLengthSln.Example3&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F450D703-5368-4743-82F3-222258CCAFBE::net6.0::LeetCodeProblems.WiggleMaxLengthSln.Example2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F450D703-5368-4743-82F3-222258CCAFBE::net6.0::LeetCodeProblems.WiggleMaxLengthSln.Example1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F450D703-5368-4743-82F3-222258CCAFBE::net6.0::LeetCodeProblems.WiggleMaxLengthSln.Example0&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F450D703-5368-4743-82F3-222258CCAFBE::net6.0::LeetCodeProblems.CandySln.Example3&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F450D703-5368-4743-82F3-222258CCAFBE::net6.0::LeetCodeProblems.CandySln.Example4&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F450D703-5368-4743-82F3-222258CCAFBE::net6.0::LeetCodeProblems.CandySln.Example1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F450D703-5368-4743-82F3-222258CCAFBE::net6.0::LeetCodeProblems.CandySln.Example2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F450D703-5368-4743-82F3-222258CCAFBE::net6.0::LeetCodeProblems.LongestConsecutiveSln.Example2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F450D703-5368-4743-82F3-222258CCAFBE::net6.0::LeetCodeProblems.LongestConsecutiveSln.Example1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F450D703-5368-4743-82F3-222258CCAFBE::net6.0::LeetCodeProblems.FibonacciSln.ExampleTheory&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F450D703-5368-4743-82F3-222258CCAFBE::net6.0::LeetCodeProblems.FibonacciSln&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
