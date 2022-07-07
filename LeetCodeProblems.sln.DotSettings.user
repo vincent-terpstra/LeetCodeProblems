@@ -42,5 +42,9 @@
     &lt;TestId&gt;xUnit::F450D703-5368-4743-82F3-222258CCAFBE::net6.0::LeetCodeProblems.LongestConsecutiveSln.Example1&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::F450D703-5368-4743-82F3-222258CCAFBE::net6.0::LeetCodeProblems.FibonacciSln.ExampleTheory&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::F450D703-5368-4743-82F3-222258CCAFBE::net6.0::LeetCodeProblems.FibonacciSln&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F450D703-5368-4743-82F3-222258CCAFBE::net6.0::LeetCodeProblems.IsInterleaveSln.Example2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F450D703-5368-4743-82F3-222258CCAFBE::net6.0::LeetCodeProblems.IsInterleaveSln.Example1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F450D703-5368-4743-82F3-222258CCAFBE::net6.0::LeetCodeProblems.IsInterleaveSln.Example3&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F450D703-5368-4743-82F3-222258CCAFBE::net6.0::LeetCodeProblems.IsInterleaveSln.Example4&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
